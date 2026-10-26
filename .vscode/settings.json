@@ -1,0 +1,12 @@
+{
+"java.project.sourcePaths": [
+""
+],
+"java.project.referencedLibraries": [
+"lib/jaudiotagger-3.0.1.jar",
+"lib/jlayer-1.0.1.jar",
+"lib/mp3spi-1.9.5.4.jar",
+"lib/tritonus-share-0.3.7.4.jar"
+],
+"java.configuration.updateBuildConfiguration": "automatic"
+}

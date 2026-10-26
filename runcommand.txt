@@ -1,0 +1,2 @@
+cd "/Users/asifali/Lofi Music"
+java -cp ".:lib/*" MusicPlayer
